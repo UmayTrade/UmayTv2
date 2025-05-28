@@ -1285,10 +1285,10 @@
         "name": "YabanciDizi"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/main/yts.png",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=aniworld.to&sz=%size%",
         "jarFileSize": 76378,
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
+        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
         "fileSize": 15875,
         "status": 1,
         "language": "en",
@@ -1300,10 +1300,9 @@
             "Torrent"
         ],
         "version": 5,
-        "internalName": "YTS",
-        "jarUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/YTS.jar",
-        "description": "YTS Movies 4K Support (Torrent)",
-        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/YTS.cs3",
-        "name": "YTS"
+        "internalName": "AniworldMC",
+        "description": "Aniworld eklentisinin Hexated isimli depodan al\u0131n\u0131p g\u00fcncellenmi\u015f halidir. Altyaz\u0131l\u0131 veya dublajl\u0131 olarak anime izleyebilirsiniz. T\u00fcrk\u00e7e i\u00e7erikler yoktur.",
+        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/AniworldMC.cs3",
+        "name": "AniworldMC"
     }
 ]
