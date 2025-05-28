@@ -6,8 +6,9 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "JustRelaxable",
-      "keyiflerolsun"
+      "Saklimavi",
+      "Yamtar"
+      "GrfkBrk"
     ],
     "tvTypes": [
       "Movie",
@@ -27,9 +28,9 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "keyiflerolsun",
-      "yusiqo",
-      "JustRelaxable"
+      "Saklimavi",
+      "Yamtar"
+      "GrfkBrk"
     ],
     "tvTypes": [
       "Movie",
@@ -43,22 +44,24 @@
     "name": "RecTV"
   },
   {
-    "iconUrl": "https://www.apkdelisi.net/wp-content/uploads/2022/03/golge-tv-reklamsiz-mod-apk-canli-tv-apkdelisi-0.jpg",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal683.com&sz=%size%",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
+    "repositoryUrl": "https://github.com/UmayTrade/UmayTv2",
     "status": 0,
     "language": "tr",
     "authors": [
-      "Makoto Tokioki"
+      "Saklimavi",
+      "Yamtar"
+      "GrfkBrk"
     ],
     "tvTypes": [
       "Live"
     ],
     "version": 14,
-    "internalName": "GolgeTV",
-    "description": "GolgeTV cloudstream eklentisidir. Sevdiğiniz yayın platformlarını ve canlı maçları burada bulabilirsiniz.",
-    "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/GolgeTV.cs3",
-    "name": "GolgeTV"
+    "internalName": "Dizipal",
+    "description": "en yeni dizileri g\u00fcvenli ve h\u0131zl\u0131 \u015fekilde sunar.",
+    "url": "https://raw.githubusercontent.com/UmayTrade/UmayTv2/refs/heads/main/DiziPal.cs3",
+    "name": "Dizipal"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=animecix.net&sz=%size%",
