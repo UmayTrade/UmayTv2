@@ -1,8 +1,8 @@
 {
-    "name": "Makoto'nun Cloudstream Reposu",
+    "name": "Saklimavi'nin Reposu",
     "description": "Türkçe Cloudstream eklentiler listesi",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/plugins.json"
+      "https://raw.githubusercontent.com/UmayTrade/UmayTv2/refs/heads/main/plugins.json"
     ]
 }
