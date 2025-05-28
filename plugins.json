@@ -1209,22 +1209,22 @@
         "name": "AsyaWatch"
     },
   {
-        "iconUrl": "https://asyafilmizlesene.org/wp-content/uploads/2022/09/rsm.png",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "status": 1,
         "language": "tr",
         "authors": [
             "Makoto Tokioki"
         ],
         "tvTypes": [
-            "Movie"
+            "Live"
         ],
         "version": 2,
-        "internalName": "AsyaFilmIzlesene",
-        "description": "Hint, Kore Filmleri",
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/AsyaFilmIzlesene.cs3",
-        "name": "AsyaFilmIzlesene"
+        "internalName": "CanliTelevizyon",
+        "description": "Canl\u0131 Televiyon Kanallari",
+        "url": "https://raw.githubusercontent.com/UmayTrade/UmayTv2/refs/heads/main/CanliTelevizyon.cs3",
+        "name": "CanliTelevizyon"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle2.com&sz=%size%",
