@@ -1,0 +1,8 @@
+{
+    "name": "Makoto'nun Cloudstream Reposu",
+    "description": "Türkçe Cloudstream eklentiler listesi",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/plugins.json"
+    ]
+}
