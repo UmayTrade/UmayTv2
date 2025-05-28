@@ -642,23 +642,23 @@
         "name": "FullHDFilm"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=fullhdfilmizlede.net&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.tlctv.com.tr&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 15286,
+        "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
+        "fileSize": 13170,
         "status": 1,
         "language": "tr",
         "authors": [
-            "nikyokki"
+            "keyiflerolsun"
         ],
         "tvTypes": [
             "Movie"
         ],
-        "version": 3,
-        "internalName": "FullHDFilm\u0130zlede",
-        "description": "En g\u00fcncel ve pop\u00fcler filmleri Full HD kalitesinde, T\u00fcrk\u00e7e altyaz\u0131l\u0131 veya T\u00fcrk\u00e7e dublaj se\u00e7enekleriyle izleyebilece\u011finiz tek adres! Sinema tutkunlar\u0131 i\u00e7in en \u00f6zel film deneyimini ya\u015famak i\u00e7in fullhdfilmizlede.net",
-        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/FullHDFilm\u0130zlede.cs3",
-        "name": "FullHDFilm\u0130zlede"
+        "version": 19,
+        "internalName": "TLCtr",
+        "description": "TLC tr",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/TLCtr.cs3",
+        "name": "TLCtr"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.de&sz=%size%",
