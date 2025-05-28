@@ -44,26 +44,6 @@
     "name": "RecTV"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal683.com&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/UmayTrade/UmayTv2",
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "Saklimavi",
-      "Yamtar"
-      "GrfkBrk"
-    ],
-    "tvTypes": [
-      "Live"
-    ],
-    "version": 32,
-    "internalName": "Dizipal",
-    "description": "en yeni dizileri g\u00fcvenli ve h\u0131zl\u0131 \u015fekilde sunar.",
-    "url": "https://raw.githubusercontent.com/UmayTrade/UmayTv2/refs/heads/main/DiziPal.cs3",
-    "name": "Dizipal"
-  },
-  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=animecix.net&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
