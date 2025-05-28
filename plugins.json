@@ -680,9 +680,9 @@
         "name": "FullHDFilmizlesene"
     },
     {
-        "iconUrl": "https://www.giniko.com/images/favicon.ico",
+        "iconUrl": "https://png.pngtree.com/png-clipart/20220823/ourmid/pngtree-turkey-country-flag-pin-icon-png-image_6120061.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
+        "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
         "fileSize": 11018,
         "status": 1,
         "language": "tr",
@@ -693,10 +693,10 @@
             "Live"
         ],
         "version": 2,
-        "internalName": "GinikoCanli",
-        "description": "Vpn Gerekli! D\u00fcnyan\u0131n t\u00fcm \u00fclkelerinden \u00fccretsiz \u00e7evrimi\u00e7i TV.",
-        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/GinikoCanli.cs3",
-        "name": "GinikoCanli"
+        "internalName": "YerelDiziler",
+        "description": "Bu eklentide yerel dizileri g\u00fcncel \u015fekilde bulabilirsiniz",
+        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/YerelDiziler.cs3",
+        "name": "YerelDiziler"
     },
     {
         "iconUrl": "https://hdfilm.cx/apple-touch-icon.png",
