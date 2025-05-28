@@ -1188,24 +1188,25 @@
         "url": "https://raw.githubusercontent.com/UmayTrade/UmayTv2/refs/heads/main/powerDizi.cs3",
         "name": "powerDizi"
     },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
+  {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=asyawatch.com&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
-        "fileSize": 18673,
+        "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
         "status": 1,
         "language": "tr",
         "authors": [
-            "patr0n"
+            "Makoto Tokioki"
         ],
         "tvTypes": [
-            "Movie"
+            "Movie",
+            "TvSeries",
+            "AsianDrama"
         ],
-        "version": 3,
-        "internalName": "powerSinema",
-        "description": "powerSinema",
-        "url": "https://raw.githubusercontent.com/UmayTrade/UmayTv2/refs/heads/main/powerSinema.cs3",
-        "name": "powerSinema"
+        "version": 1,
+        "internalName": "AsyaWatch",
+        "description": "AsyaWatch.com",
+        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/AsyaWatch.cs3",
+        "name": "AsyaWatch"
     },
   {
         "iconUrl": "https://asyafilmizlesene.org/wp-content/uploads/2022/09/rsm.png",
