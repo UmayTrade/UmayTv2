@@ -544,23 +544,23 @@
         "name": "FilmIzleCx"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=filmizlesene.plus&sz=%size%",
+        "iconUrl": "https://www.dmax.com.tr/favicon.ico",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 17150,
-        "status": 0,
+        "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
+        "fileSize": 13243,
+        "status": 1,
         "language": "tr",
         "authors": [
             "nikyokki"
         ],
         "tvTypes": [
-            "Movie"
+            "TvSeries"
         ],
-        "version": 5,
-        "internalName": "Film\u0130zlesene",
-        "description": "Filmizlesene ile h\u0131zl\u0131 film izleme f\u0131rsat\u0131n\u0131 yakala, en yeni ve iyi filmleri Full HD 1080p kalitesiyle online ve bedava izle",
-        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/Film\u0130zlesene.cs3",
-        "name": "Film\u0130zlesene"
+        "version": 2,
+        "internalName": "DMax",
+        "description": "DMAX dizi ve programlar\u0131n\u0131 takip etmek i\u00e7in ziyaret edin. DMAX dizi ve programlar\u0131n\u0131 tek par\u00e7a ve hd kalitesiyle izleyin.",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/DMax.cs3",
+        "name": "DMax"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=filmkovasi.tv&sz=%size%",
