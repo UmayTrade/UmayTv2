@@ -1207,25 +1207,23 @@
         "url": "https://raw.githubusercontent.com/UmayTrade/UmayTv2/refs/heads/main/powerSinema.cs3",
         "name": "powerSinema"
     },
-    {
-        "iconUrl": "https://img.watch32.sx/xxrz/400x400/100/a9/5e/a95e15a880a9df3c045f6a5224daf576/a95e15a880a9df3c045f6a5224daf576.png",
+  {
+        "iconUrl": "https://asyafilmizlesene.org/wp-content/uploads/2022/09/rsm.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 15552,
+        "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
         "status": 1,
-        "language": "en",
+        "language": "tr",
         "authors": [
-            "kerimmkirac"
+            "Makoto Tokioki"
         ],
         "tvTypes": [
-            "Movie",
-            "TvSeries"
+            "Movie"
         ],
-        "version": 5,
-        "internalName": "Watch32",
-        "description": "Watch32 is a Free Movies streaming site with over 10000 movies and TV-Series.",
-        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/Watch32.cs3",
-        "name": "Watch32"
+        "version": 2,
+        "internalName": "AsyaFilmIzlesene",
+        "description": "Hint, Kore Filmleri",
+        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/AsyaFilmIzlesene.cs3",
+        "name": "AsyaFilmIzlesene"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle2.com&sz=%size%",
