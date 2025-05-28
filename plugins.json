@@ -873,7 +873,7 @@
         "version": 22,
         "internalName": "JetFilmizle",
         "description": "Binlerce Film \u0130zleme Se\u00e7ene\u011fiyle En \u0130yi Film \u0130zleme Sitesi",
-        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/JetFilmizle.cs3",
+        "url": "https://raw.githubusercontent.com/UmayTrade/UmayTv2/refs/heads/main/JetFilmizle.cs3",
         "name": "JetFilmizle"
     },
     {
@@ -892,7 +892,7 @@
         "version": 7,
         "internalName": "KoreanTurk",
         "description": "G\u00fcney Kore sevdal\u0131lar\u0131n\u0131n vazge\u00e7emedi\u011fi ve T\u00fcrkiye'nin en \u00e7ok ziyaret edilen G\u00fcney Kore Portal\u0131; Koreant\u00fcrk'e ho\u015fgeldiniz!",
-        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/KoreanTurk.cs3",
+        "url": "https://raw.githubusercontent.com/UmayTrade/UmayTv2/refs/heads/main/KoreanTurk.cs3",
         "name": "KoreanTurk"
     },
     {
@@ -912,7 +912,7 @@
         "version": 9,
         "internalName": "KultFilmler",
         "description": "K\u00fclt Filmler \u00f6zenle en iyi filmleri derler ve iyi bir altyaz\u0131l\u0131 film izleme deneyimi sunmay\u0131 ama\u00e7lar",
-        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/KultFilmler.cs3",
+        "url": "https://raw.githubusercontent.com/UmayTrade/UmayTv2/refs/heads/main/KultFilmler.cs3",
         "name": "KultFilmler"
     },
     {
@@ -931,7 +931,7 @@
         "version": 4,
         "internalName": "powerSinema",
         "description": "powerSinema",
-        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/powerSinema.cs3",
+        "url": "https://raw.githubusercontent.com/UmayTrade/UmayTv2/refs/heads/main/powerSinema.cs3",
         "name": "powerSinema"
     },
     {
@@ -1189,23 +1189,23 @@
         "name": "vavooSpor"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=watch2movies.net&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 18377,
-        "status": 3,
-        "language": "en",
+        "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
+        "fileSize": 18673,
+        "status": 1,
+        "language": "tr",
         "authors": [
-            "keyiflerolsun"
+            "patr0n"
         ],
         "tvTypes": [
             "Movie"
         ],
-        "version": 2,
-        "internalName": "Watch2Movies",
-        "description": "!!! YAPIM A\u015eAMASINDA !!! Watch2Movies is a Free Movies streaming site with zero ads. We let you watch movies online without having to register or paying, with over 10000 movies and TV-Series. You can also Download full movies from Watch2Movies and watch it later if you want.",
-        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/Watch2Movies.cs3",
-        "name": "Watch2Movies"
+        "version": 3,
+        "internalName": "powerSinema",
+        "description": "powerSinema",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/powerSinema.cs3",
+        "name": "powerSinema"
     },
     {
         "iconUrl": "https://img.watch32.sx/xxrz/400x400/100/a9/5e/a95e15a880a9df3c045f6a5224daf576/a95e15a880a9df3c045f6a5224daf576.png",
