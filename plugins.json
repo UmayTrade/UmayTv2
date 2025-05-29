@@ -1323,6 +1323,25 @@
         "name": "YabanciDizi"
     },
     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=colorhunt.co&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/UmayTrade/UmayTv2",
+        "fileSize": 38923,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "nikyokki"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 3,
+        "internalName": "NeonSpor",
+        "description": "(BeIN Sport, Tivibu Spor ve Smart Spor i\u00e7in VPN Gerekebilir.) NeonSpor eklentisini de BeIN Sport, Tabii Spor, Tivibu Spor, Smart Spor, S Sport ve Di\u011fer kanallar mevcuttur.",
+        "url": "https://raw.githubusercontent.com/UmayTrade/UmayTv2/refs/heads/main/NeonSpor.cs3",
+        "name": "NeonSpor"
+    },
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=aniworld.to&sz=%size%",
         "jarFileSize": 76378,
         "apiVersion": 1,
