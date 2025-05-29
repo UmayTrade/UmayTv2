@@ -400,7 +400,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 13,
+        "version": 14,
         "internalName": "DiziMom",
         "description": "Binlerce yerli yabanc\u0131 dizi ar\u015fivi, t\u00fcm sezonlar, kesintisiz b\u00f6l\u00fcmler. Sadece dizi izle, Dizimom heryerde seninle!",
         "url": "https://raw.githubusercontent.com/UmayTrade/UmayTv2/refs/heads/main/DiziMom.cs3",
