@@ -18,20 +18,20 @@
         "url": "https://raw.githubusercontent.com/UmayTrade/UmayTv2/refs/heads/main/4KFilmIzleme.cs3",
         "name": "4KFilmIzleme"
     },
-        {
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=xprime.tv&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-        "fileSize": 26821,
+        "fileSize": 11676,
         "status": 1,
         "language": "tr",
         "authors": [
-            "nikyokki"
+            "kraptor"
         ],
         "tvTypes": [
             "Movie"
         ],
-        "version": 3,
+        "version": 8,
         "internalName": "XPrime",
         "description": "XPrime.Tv",
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/XPrime.cs3",
