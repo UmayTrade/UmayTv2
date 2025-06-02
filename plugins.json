@@ -780,7 +780,7 @@
         "version": 8,
         "internalName": "FullHDFilmizlesene",
         "description": "Sinema zevkini evinize kadar getirdik. T\u00fcrkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
-        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/FullHDFilmizlesene.cs3",
+        "url": "https://raw.githubusercontent.com/UmayTrade/UmayTv2/refs/heads/main/FullHDFilmizlesene.cs3",
         "name": "FullHDFilmizlesene"
     },
     {
@@ -1408,6 +1408,7 @@
         "status": 1,
         "language": "tr",
         "authors": [
+            "nikyokki",
             "Saklimavi",
             "GrfkBrk",
             "Yamtar"
