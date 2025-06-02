@@ -2,16 +2,13 @@
 
 Kısa kod = UmayTV
 
--Eklenenler :                                    
+-Eklentiler :                                    
 
 
 ![UmayTv](https://github.com/user-attachments/assets/572c4cd1-9894-4713-80e8-84aa7c72970d)
 
 
-**Çalışmayan veya sıkıntı içeren eklentileri bildirmek için issues alanı açılmıştır ayrıca yeni eklenti istekleri için discussions bölümünde açtığım site istekleri sorusuna yanıt olarak istediğiniz siteleri söyleyebilirsiniz.**
-
-
-                                                                                                                                                                  
+                                                                                                                               
 İyi seyirler.
 
 ## 💾 Kurulum
