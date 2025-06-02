@@ -3,23 +3,75 @@
 Kısa kod = UmayTV
 
 -Eklenenler :                                    
--Diziyo sitesi eklenti olarak eklenmiştir.        
--Anizm sitesi eklenti olarak eklenmiştir.        
--DiziFun sitesi eklenti olarak eklenmiştir.       
--CizgiveDizi sitesi eklenti olarak eklenmiştir.                                 
--AsyaAnimeleri sitesi eklenti olarak eklenmiştir.                                                                                                                                                                                  
--AnimeIzlesene sitesi eklenti olarak eklenmiştir.                                                                                                                                                                                  
--FilmEkseni sitesi eklenti olarak eklenmiştir.                                 
--CanliTV eklentisi için maç kanalları eklenmiştir.                                                                                                                                                                                 
--Animeler sitesi eklenti olarak eklenmiştir.                                                                                                                                     
--Animex sitesi eklenti olarak eklenmiştir.                                                                                                                                     
--Dizimore sitesi eklenti olarak eklenmiştir.   
--Filmhane sitesi eklenti olarak eklenmiştir.   
--TrDiziİzle sitesi eklenti olarak eklenmiştir.                                                                                                                                      
+4KFilmIzleme.cs3 🟢
+4KFilmIzlesene.cs3 🟢
+AnimeIzlesene.cs3 🟢
+AnimeciX.cs3 🟢
+Animeler.cs3 🟢
+Animex.cs3 🟢
+Anizm.cs3 🟢
+AsyaAnimeleri.cs3 🟢
+AsyaFanatiklerim.cs3 🟢
+AsyaWatch.cs3 🟢
+BelgeselX.cs3 🟢
+CanliTelevizyon.cs3 🟢
+CizgiMax.cs3 🟢
+CizgiveDizi.cs3 🟢
+Ddizi.cs3 🟢
+DiziBox.cs3 🟢
+DiziFun.cs3 🟢
+DiziGom.cs3 🟢
+DiziKorea.cs3 🟢
+DiziKral.cs3 🟢
+DiziMag.cs3 🟢
+DiziMom.cs3 🟢
+DiziMore.cs3 🟢
+DiziPal.cs3 🟢
+DiziYo.cs3 🟢
+DiziYou.cs3 🟢
+Dizilla.cs3 🟢
+FilmEkseni.cs3 🟢
+FilmHane.cs3 🟢
+FilmIzleCx.cs3 🟢
+FilmKovasi.cs3 🟢
+FilmMakinesi.cs3 🟢
+FilmModu.cs3 🟢
+FullHDFilmizlesene.cs3 🟢
+HDFilm.cs3 🟢
+HDFilmCehennemi.cs3 🟢
+HDFilmCehennemi2.cs3 🟢
+HDFilmIzle.cs3 🟢
+HDFilmSitesi.cs3 🟢
+InatBox.cs3 🟢
+JetFilmizle.cs3 🟢
+KoreanTurk.cs3 🟢
+KultFilmler.cs3 🟢
+NeonSpor.cs3 🟢
+NetflixMirror.cs3 🟢
+Puhu.cs3 🟢
+RareFilmm.cs3 🟢
+RecTV.cs3 🟢
+RoketDizi.cs3 🟢
+SetFilmIzle.cs3 🟢
+SezonlukDizi.cs3 🟢
+Sinefy.cs3 🟢
+SinemaCX.cs3 🟢
+SuperFilmGeldi.cs3 🟢
+Tafdi.cs3 🟢
+TrDiziIzle.cs3 🟢
+TurkAnime.cs3 🟢 
+UgurFilm.cs3 🟢
+WebteIzle.cs3 🟢
+YabanciDizi.cs3 🟢
+YerelDiziler.cs3 🟢
+YerelProgramlar.cs3 🟢
+powerDizi.cs3 🟢
+powerSinema.cs3 🟢
+
 **Çalışmayan veya sıkıntı içeren eklentileri bildirmek için issues alanı açılmıştır ayrıca yeni eklenti istekleri için discussions bölümünde açtığım site istekleri sorusuna yanıt olarak istediğiniz siteleri söyleyebilirsiniz.**
 
 
-**Çalışmayan canlı yayınlar için android cihazınıza [ByeDPI](https://github.com/dovecoteescapee/ByeDPIAndroid/releases/download/v1.2.0/byedpi-1.2.0.apk) kurabilirsiniz. [Kurulum talimatları](https://www.technopat.net/sosyal/konu/android-vpn-olmadan-sinirsiz-erisim-byedpi.3564707/)**                                                                                                                                                                        
+                                                                                                                                                                  
 İyi seyirler.
 
 ## 💾 Kurulum
@@ -30,13 +82,4 @@ Kısa kod = UmayTV
   - `Depo ekle` _butonuyla **manuel** ekleme yapmak isteyen arkadaşlar için_ `UmayTV` _**kısa kod**u mevcuttur._ `Depo ismi` _kısmını boş bırakarak_ `Depo URL'si` _kısmına_ `UmayTV` yazarak `Depo ekle` _demeniz yeterli.._
 
 
-## ❗Uyarı
-
-DMCA
-
-İşbu bildirimle, bu uzantıların internetten video dosyalarını getiren ve işlevsel olarak sıradan bir tarayıcıdan (sizin tarayıcınız gibi) farkı olmadığını; bu nedenle Dijital Binyıl Telif Hakkı Yasası’nın (DMCA) hükümlerini ihlal etmediğini bildiririz. Bu uzantıların erişebileceği içerikler ne bizim tarafımızdan ne de Cloudstream 3 uygulaması tarafından barındırılmakta olup, uzantılar bu içeriklere özerk tarama modunda eriştikleri web siteleri üzerinden ulaşmaktadır. İçeriklerin kullanımı ve bununla ilgili tüm yasal sorumluluk tamamen kullanıcıya ve kullanıcının ülke ya da eyalet yasalarına aittir. Eğer herhangi bir fikri mülkiyet hakkı ihlali olduğunu düşünüyorsanız, lütfen bu depo sahipleri veya Cloudstream 3 uygulaması yerine içeriklerin barındırıldığı gerçek sunucularla iletişime geçiniz.
-
-Teşekkür ederiz.
-
----
 
