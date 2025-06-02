@@ -38,7 +38,7 @@
         "version": 8,
         "internalName": "XPrime",
         "description": "XPrime.Tv",
-        "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/XPrime.cs3",
+        "url": "https://raw.githubusercontent.com/UmayTrade/UmayTv2/refs/heads/main/XPrime.cs3",
         "name": "XPrime"
     },
     {
@@ -632,7 +632,7 @@
         "version": 2,
         "internalName": "DMax",
         "description": "DMAX dizi ve programlar\u0131n\u0131 takip etmek i\u00e7in ziyaret edin. DMAX dizi ve programlar\u0131n\u0131 tek par\u00e7a ve hd kalitesiyle izleyin.",
-        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/DMax.cs3",
+        "url": "https://raw.githubusercontent.com/UmayTrade/UmayTv2/refs/heads/main/DMax.cs3",
         "name": "DMax"
     },
     {
@@ -759,7 +759,7 @@
         "version": 19,
         "internalName": "TLCtr",
         "description": "TLC tr",
-        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/TLCtr.cs3",
+        "url": "https://raw.githubusercontent.com/UmayTrade/UmayTv2/refs/heads/main/TLCtr.cs3",
         "name": "TLCtr"
     },
     {
@@ -973,7 +973,7 @@
         "version": 4,
         "internalName": "NetflixMirror",
         "description": "Netflix, PrimeVideo Content in Multiple Languages",
-        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/NetflixMirror.cs3",
+        "url": "https://raw.githubusercontent.com/UmayTrade/UmayTv2/refs/heads/main/NetflixMirror.cs3",
         "name": "NetflixMirror"
     },
     {
