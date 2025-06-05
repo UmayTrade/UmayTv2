@@ -1,6 +1,6 @@
 {
     "name": "Saklimavi'nin Reposu",
-    "description": "Türkçe Cloudstream eklentiler listesi",
+    "description": "Türkçe Cloudstream eklentileri",
     "manifestVersion": 1,
     "pluginLists": [
       "https://raw.githubusercontent.com/UmayTrade/UmayTv2/refs/heads/main/plugins.json"
