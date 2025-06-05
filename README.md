@@ -20,3 +20,12 @@ Kısa kod = UmayTV
 
 
 
+
+Not : kimse hırsız oldugumuzu dusunmesin eklentileri tek bir yerde toplayıp kendi adımızı vermek tamamen gelistiricilerin üstünden yükü almaktır.
+
+Gelistiriciler'e yürekten tşk ederiz...
+
+Makoto, Nikstream, patr0n, Latte, feroxx, kekikan, KekikAkademi, 
+
+
+amacımız kimsenin canını yakmak değil lütfen kimse herkesin hakkını teslim edin ...
