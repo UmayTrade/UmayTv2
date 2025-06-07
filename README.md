@@ -1,4 +1,4 @@
-# 📺 cs-UmayTrade
+# 📺 cs-UmayTV
 
 Kısa kod = UmayTV
 
