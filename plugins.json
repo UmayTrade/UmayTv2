@@ -1142,7 +1142,7 @@
         "status": 1,
         "language": "tr",
         "authors": [
-            "keyiflerolsun""
+            "keyiflerolsun"
         ],
         "tvTypes": [
             "Movie"
@@ -1311,7 +1311,7 @@
         "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
         "fileSize": 21873,
         "status": 1,
-        "language": "tr",el
+        "language": "tr", "el"
         "authors": [
             "keyiflerolsun",
             "nikyokki"
