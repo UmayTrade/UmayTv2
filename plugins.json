@@ -1,14 +1,14 @@
 [
    
  {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.4kfilmizlesene.org&sz=%size%"",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.4kfilmizlesene.org&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
         "fileSize": 11676,
         "status": 1,
         "language": "tr",
         "authors": [
-           nikyokki
+           "nikyokki"
         ],
         "tvTypes": [
             "Live"
