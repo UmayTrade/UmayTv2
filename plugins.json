@@ -1,6 +1,5 @@
 [
-   
- {
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.4kfilmizlesene.org&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
@@ -8,18 +7,18 @@
         "status": 1,
         "language": "tr",
         "authors": [
-           "nikyokki"
+            "nikyokki"
         ],
         "tvTypes": [
             "Live"
         ],
         "version": 8,
         "internalName": "4KFilmIzlesene",
-        "description": "En yeni ve sorunsuz \u26a1  Full HD Film izle keyfi her yerde sizinle ! 4K ve 1080p online film izleme fark\u0131yla 4KFilmizlesene&amp;#039;nin Tad\u0131n\u0131 \u00c7\u0131kart..",
+        "description": "En yeni ve sorunsuz \u26a1 Full HD Film izle keyfi her yerde sizinle ! 4K ve 1080p online film izleme fark\u0131yla 4KFilmizlesene&#039;nin Tad\u0131n\u0131 \u00c7\u0131kart..",
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/4KFilmIzlesene.cs3",
         "name": "4KFilmIzlesene"
-    }, 
-{
+    },
+    {
         "iconUrl": "https://www.4kfilmizleme.net/wp-content/uploads/2022/09/4kfilmizlemefavicon-1.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
@@ -35,10 +34,10 @@
         "version": 8,
         "internalName": "4KFilmIzleme",
         "description": "Film izle, \u26a1 En yeni \u00e7\u0131kan yabanc\u0131 vizyon filmleri 4KFilmizleme ile Online 1080p kalite veya Ultra Full HD 4K Film izle.",
-        "url": "ttps://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/4KFilmIzleme.cs3",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/4KFilmIzleme.cs3",
         "name": "4KFilmIzleme"
-    },  
-  {
+    },
+    {
         "iconUrl": "https://play-lh.googleusercontent.com/-yOogqUeOaEmqLT0fJn4Esbj0pldGw7wijqdX2XxSAQn2djvefdwkHeK3tZSv-gMP2Q",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Sertel392/Makotogecici",
@@ -115,7 +114,7 @@
         ],
         "version": 9,
         "internalName": "AnimeIzlesene",
-        "description": "Sade tasar\u0131ma sahip, y\u00fcksek kaliteli anime izleme sitesi. En sevdi\u011finiz anime serilerini, kesintisiz bir \u015fekilde izleyebilirsiniz. Geni\u015f ar\u015fivimiz sayesinde, her zaman yeni \u00e7\u0131kan animeleri ve eski klasikleri ke\u015ffedebilirsiniz.",
+        "description": "Sade tasarıma sahip, yüksek kaliteli anime izleme sitesi. En sevdiğiniz anime serilerini, kesintisiz bir şekilde izleyebilirsiniz. Geniş arşivimiz sayesinde, her zaman yeni çıkan animeleri ve eski klasikleri keşfedebilirsiniz.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/AnimeIzlesene.cs3",
         "name": "AnimeIzlesene"
     },
@@ -134,7 +133,7 @@
         ],
         "version": 7,
         "internalName": "Animeler",
-        "description": "HD kalitesinde \u00fccretsiz anime izle! Animeler.me, en yeni ve pop\u00fcler anime serilerini T\u00fcrk\u00e7e altyaz\u0131l\u0131 ve dublajl\u0131 olarak sunar. Favori animelerini hemen ke\u015ffet!",
+        "description": "HD kalitesinde ücretsiz anime izle! Animeler.me, en yeni ve popüler anime serilerini Türkçe altyazılı ve dublajlı olarak sunar. Favori animelerini hemen keşfet!",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/Animeler.cs3",
         "name": "Animeler"
     },
@@ -153,7 +152,7 @@
         ],
         "version": 4,
         "internalName": "Animex",
-        "description": "Anime izle, Anime t\u00fcrkce altyaz\u0131l\u0131 , birbirinden farkl\u0131 ve g\u00fczel en g\u00fcncel animeleri keyifle seyredebilece\u011finiz Animex.com.tr anime severlerin en pop\u00fcler t\u00fcrk\u00e7e anime izleme sitesidir.",
+        "description": "Anime izle, Anime türkce altyazılı , birbirinden farklı ve güzel en güncel animeleri keyifle seyredebileceğiniz Animex.com.tr anime severlerin en popüler türkçe anime izleme sitesidir.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/Animex.cs3",
         "name": "Animex"
     },
@@ -172,7 +171,7 @@
         ],
         "version": 8,
         "internalName": "Anizm",
-        "description": "T\u00fcrk\u00e7e Altyaz\u0131l\u0131 Anime \u0130zle.",
+        "description": "Türkçe Altyazılı Anime İzle.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/Anizm.cs3",
         "name": "Anizm"
     },
@@ -191,7 +190,7 @@
         ],
         "version": 2,
         "internalName": "AsyaAnimeleri",
-        "description": "Asya Animeleri \u2013 Anime izle | Donghua izle | Animeler | Donghuantr | T\u00fcrkanime | Donghua Anime, T\u00fcrk\u00e7e Altyaz\u0131l\u0131 Anime izle , T\u00fcrk\u00e7e Anime, animeizle.",
+        "description": "Asya Animeleri \u2013 Anime izle | Donghua izle | Animeler | Donghuantr | Türkanime | Donghua Anime, Türkçe Altyazılı Anime izle , Türkçe Anime, animeizle.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/AsyaAnimeleri.cs3",
         "name": "AsyaAnimeleri"
     },
@@ -210,7 +209,7 @@
         ],
         "version": 2,
         "internalName": "AsyaFanatiklerim",
-        "description": "Asya Fanatikleri, asya dizilerini izleme imkan\u0131 sunar. Kore dizileri izle, asyafanatikleri kore dizileri, tayvan dizileri izle, \u00e7in dizileri izle, anime izle.",
+        "description": "Asya Fanatikleri, asya dizilerini izleme imkanı sunar. Kore dizileri izle, asyafanatikleri kore dizileri, tayvan dizileri izle, çin dizileri izle, anime izle.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/AsyaFanatiklerim.cs3",
         "name": "AsyaFanatiklerim"
     },
@@ -231,7 +230,7 @@
         ],
         "version": 7,
         "internalName": "BelgeselX",
-        "description": "En yeni belgeseller, t\u00fcrk\u00e7e altyaz\u0131l\u0131 yada dublaj olarak 1080p kalitesinde HD belgesel izle.",
+        "description": "En yeni belgeseller, türkçe altyazılı yada dublaj olarak 1080p kalitesinde HD belgesel izle.",
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/BelgeselX.cs3",
         "name": "BelgeselX"
     },
@@ -252,7 +251,7 @@
         ],
         "version": 37,
         "internalName": "Ddizi",
-        "description": "DDizi.im i\u00e7in Cloudstream eklentisi",
+        "description": "DDizi.im için Cloudstream eklentisi",
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/DDizi.cs3",
         "name": "Ddizi"
     },
@@ -272,7 +271,7 @@
         ],
         "version": 7,
         "internalName": "CizgiMax",
-        "description": "\u00c7izgiMax ile \u00c7izgi Film izlemek art\u0131k daha kolay, donmadan full hd ve reklams\u0131z bir sitedir, i\u00e7erisinde 700 den fazla \u00e7izgi film olan, Bu site bu i\u015fi profesyonelce yap\u0131yor.",
+        "description": "\u00c7izgiMax ile Çizgi Film izlemek artık daha kolay, donmadan full hd ve reklamsız bir sitedir, içerisinde 700 den fazla çizgi film olan, Bu site bu işi profesyonelce yapıyor.",
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/CizgiMax.cs3",
         "name": "CizgiMax"
     },
@@ -291,7 +290,7 @@
         ],
         "version": 8,
         "internalName": "CizgiveDizi",
-        "description": "\u00dccretsiz bir \u015fekilde \u00e7izgi dizi, dizi, anime ve daha fazlas\u0131n\u0131 eski-yeni demeden izleyebilirsiniz.",
+        "description": "Ücretsiz bir şekilde çizgi dizi, dizi, anime ve daha fazlasını eski-yeni demeden izleyebilirsiniz.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/CizgiveDizi.cs3",
         "name": "CizgiveDizi"
     },
@@ -311,7 +310,7 @@
         ],
         "version": 5,
         "internalName": "DiziBox",
-        "description": "Yabanc\u0131 Dizi izle, T\u00fcm yabanc\u0131 dizilerin yeni ve eski sezonlar\u0131n\u0131 full hd izleyebilece\u011finiz elit site.",
+        "description": "Yabancı Dizi izle, Tüm yabancı dizilerin yeni ve eski sezonlarını full hd izleyebileceğiniz elit site.",
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/DiziBox.cs3",
         "name": "DiziBox"
     },
@@ -326,11 +325,12 @@
             "kraptor"
         ],
         "tvTypes": [
-            "TvSeries, Movie"
+            "TvSeries",
+            "Movie"
         ],
         "version": 5,
         "internalName": "DiziFun",
-        "description": "Her Dizi Bir Macera, Her An Bir Ke\u015fif!",
+        "description": "Her Dizi Bir Macera, Her An Bir Keşif!",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/DiziFun.cs3",
         "name": "DiziFun"
     },
@@ -350,12 +350,12 @@
         ],
         "version": 7,
         "internalName": "DiziGom",
-        "description": "T\u00fcrk\u00e7e altyaz\u0131l\u0131 yabanc\u0131 dizi izle, T\u00fcm yabanc\u0131, kore, netflix dizilerin yeni ve eski sezonlar\u0131n\u0131 orijinal dilinde dizigom1 alt yaz\u0131l\u0131 film izleyebilir, sadece t\u00fcrk\u00e7e altyaz\u0131l\u0131 en iyi yabanc\u0131 diziler ve filmler hakk\u0131nda yorum yapabilirsiniz.",
+        "description": "Türkçe altyazılı yabancı dizi izle, Tüm yabancı, kore, netflix dizilerin yeni ve eski sezonlarını orijinal dilinde dizigom1 alt yazılı film izleyebilir, sadece türkçe altyazılı en iyi yabancı diziler ve filmler hakkında yorum yapabilirsiniz.",
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/DiziGom.cs3",
         "name": "DiziGom"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizikorea.vip&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dizikorea.vip&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
         "fileSize": 18664,
@@ -370,7 +370,7 @@
         ],
         "version": 7,
         "internalName": "DiziKorea",
-        "description": "En G\u00fcncel Kore Dizileri izleme Sitesi",
+        "description": "En Güncel Kore Dizileri izleme Sitesi",
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/DiziKorea.cs3",
         "name": "DiziKorea"
     },
@@ -389,7 +389,7 @@
         ],
         "version": 5,
         "internalName": "DiziKral",
-        "description": "DiziKRAL - \u00fccretsiz yabanc\u0131 dizi izle, film izle, anime izle.",
+        "description": "DiziKRAL - ücretsiz yabancı dizi izle, film izle, anime izle.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/DiziKral.cs3",
         "name": "DiziKral"
     },
@@ -409,7 +409,7 @@
         ],
         "version": 20,
         "internalName": "Dizilla",
-        "description": "Dizilla t\u00fcm yabanc\u0131 dizileri \u00fccretsiz olarak T\u00fcrk\u00e7e Dublaj ve altyaz\u0131l\u0131 se\u00e7enekleri ile 1080P kalite izleyebilece\u011finiz yeni nesil yabanc\u0131 dizi izleme siteniz.",
+        "description": "Dizilla tüm yabancı dizileri ücretsiz olarak Türkçe Dublaj ve altyazılı seçenekleri ile 1080P kalite izleyebileceğiniz yeni nesil yabancı dizi izleme siteniz.",
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/Dizilla.cs3",
         "name": "Dizilla"
     },
@@ -428,7 +428,7 @@
         ],
         "version": 11,
         "internalName": "DiziMag",
-        "description": "En son \u00e7\u0131kan yabanc\u0131 dizi ve filmleri DiziMag fark\u0131yla full hd 1080p kalitede izle. Dizimag Geni\u015f ve g\u00fcncel ar\u015fiviyle dizi ve filmlerin tad\u0131n\u0131 \u00e7\u0131kart\u0131n.",
+        "description": "En son çıkan yabancı dizi ve filmleri DiziMag farkıyla full hd 1080p kalitede izle. Dizimag Geniş ve güncel arşiviyle dizi ve filmlerin tadını çıkarın.",
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/DiziMag.cs3",
         "name": "DiziMag"
     },
@@ -448,12 +448,12 @@
         ],
         "version": 14,
         "internalName": "DiziMom",
-        "description": "Binlerce yerli yabanc\u0131 dizi ar\u015fivi, t\u00fcm sezonlar, kesintisiz b\u00f6l\u00fcmler. Sadece dizi izle, Dizimom heryerde seninle!",
+        "description": "Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/DiziMom.cs3",
         "name": "DiziMom"
     },
     {
-        "iconUrl": "view-source:https://dizimore.com/wp-content/uploads/2024/03/morefav.png",
+        "iconUrl": "https://dizimore.com/wp-content/uploads/2024/03/morefav.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 17232,
@@ -467,12 +467,12 @@
         ],
         "version": 3,
         "internalName": "DiziMore",
-        "description": "Sadece Dizi izlemenin Tek Adresin yerli yabanc\u0131 dizi izlemek i\u00e7in dizimore.com",
+        "description": "Sadece Dizi izlemenin Tek Adresin yerli yabancı dizi izlemek için dizimore.com",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/DiziMore.cs3",
         "name": "DiziMore"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal683.com&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dizipal683.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
         "fileSize": 17305,
@@ -488,7 +488,7 @@
         ],
         "version": 32,
         "internalName": "DiziPal",
-        "description": "en yeni dizileri g\u00fcvenli ve h\u0131zl\u0131 \u015fekilde sunar.",
+        "description": "en yeni dizileri güvenli ve hızlı şekilde sunar.",
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/DiziPal.cs3",
         "name": "DiziPal"
     },
@@ -509,7 +509,7 @@
         ],
         "version": 4,
         "internalName": "DiziYo",
-        "description": "Diziyo ile Yabanc\u0131 Dizi, Film, Anime, \u00c7izgi-Film izle.",
+        "description": "Diziyo ile Yabancı Dizi, Film, Anime, Çizgi-Film izle.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/DiziYo.cs3",
         "name": "DiziYo"
     },
@@ -529,7 +529,7 @@
         ],
         "version": 11,
         "internalName": "DiziYou",
-        "description": "Diziyou en kaliteli T\u00fcrk\u00e7e dublaj ve altyaz\u0131l\u0131 yabanc\u0131 dizi izleme sitesidir. G\u00fcncel ve efsanevi dizileri 1080p Full HD kalitede izlemek i\u00e7in hemen t\u0131kla!",
+        "description": "Diziyou en kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesidir. Güncel ve efsanevi dizileri 1080p Full HD kalitede izlemek için hemen tıkla!",
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/DiziYou.cs3",
         "name": "DiziYou"
     },
@@ -548,7 +548,7 @@
         ],
         "version": 6,
         "internalName": "FilmEkseni",
-        "description": "Film Ekseni \u26a1 Vizyonda ki, en g\u00fcncel ve en yeni filmleri full hd kalitesinde t\u00fcrk\u00e7e dublaj ve altyaz\u0131 se\u00e7enekleriyle 1080p olarak izleyebilece\u011finiz adresiniz.",
+        "description": "Film Ekseni \u26a1 Vizyonda ki, en güncel ve en yeni filmleri full hd kalitesinde türkçe dublaj ve altyazı seçenekleriyle 1080p olarak izleyebileceğiniz adresiniz.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/FilmEkseni.cs3",
         "name": "FilmEkseni"
     },
@@ -563,11 +563,12 @@
             "kraptor"
         ],
         "tvTypes": [
-            "Movie, TvSeries"
+            "Movie",
+            "TvSeries"
         ],
         "version": 5,
         "internalName": "FilmHane",
-        "description": "Son \u00e7\u0131kan en yeni filmleri t\u00fcrk\u00e7e dublaj ve t\u00fcrk\u00e7e altyaz\u0131l\u0131 dil se\u00e7enekleriyle Full HD (1080p) kalitelerinde film izle.",
+        "description": "Son çıkan en yeni filmleri türkçe dublaj ve türkçe altyazılı dil seçenekleriyle Full HD (1080p) kalitelerinde film izle.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/FilmHane.cs3",
         "name": "FilmHane"
     },
@@ -586,7 +587,7 @@
         ],
         "version": 3,
         "internalName": "FilmIzleCx",
-        "description": "Filmizle ile Full HD Film izle. Yerli ve yabanc\u0131 filmleri T\u00fcrk\u00e7e dublaj veya Alt yaz\u0131l\u0131 se\u00e7ene\u011fiyle kesintisiz ve sorunsuz en h\u0131zl\u0131 film sitesi.",
+        "description": "Filmizle ile Full HD Film izle. Yerli ve yabancı filmleri Türkçe dublaj veya Alt yazılı seçeneğiyle kesintisiz ve sorunsuz en hızlı film sitesi.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/FilmIzleCx.cs3",
         "name": "FilmIzleCx"
     },
@@ -605,7 +606,7 @@
         ],
         "version": 2,
         "internalName": "DMax",
-        "description": "DMAX dizi ve programlar\u0131n\u0131 takip etmek i\u00e7in ziyaret edin. DMAX dizi ve programlar\u0131n\u0131 tek par\u00e7a ve hd kalitesiyle izleyin.",
+        "description": "DMAX dizi ve programlarını takip etmek için ziyaret edin. DMAX dizi ve programlarını tek parça ve hd kalitesiyle izleyin.",
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/DMax.cs3",
         "name": "DMax"
     },
@@ -624,7 +625,7 @@
         ],
         "version": 4,
         "internalName": "FilmKovasi",
-        "description": "Film Kovasi \u26a1 ile en g\u00fcncel ve sorunsuz Full HD Film izle keyfi her yerde seninle! 1080p online film izleme ayr\u0131cal\u0131\u011f\u0131yla Film Kovas\u0131'n\u0131n Tad\u0131n\u0131 \u00c7\u0131kar\u0131n.",
+        "description": "Film Kovasi \u26a1 ile en güncel ve sorunsuz Full HD Film izle keyfi her yerde seninle! 1080p online film izleme ayrıcalığıyla Film Kovasını Tadını Çıkarın.",
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/FilmKovasi.cs3",
         "name": "FilmKovasi"
     },
@@ -645,7 +646,7 @@
         ],
         "version": 12,
         "internalName": "FilmMakinesi",
-        "description": "Film Makinesi, en yeni ve en g\u00fcncel filmleri sitemizde full HD kalite fark\u0131 ile izleyebilirsiniz. HD film izle denildi\u011finde akla gelen en kaliteli film izleme sitesi.",
+        "description": "Film Makinesi, en yeni ve en güncel filmleri sitemizde full HD kalite farkı ile izleyebilirsiniz. HD film izle denildiğinde akla gelen en kaliteli film izleme sitesi.",
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/FilmMakinesi.cs3",
         "name": "FilmMakinesi"
     },
@@ -665,11 +666,11 @@
         ],
         "version": 10,
         "internalName": "FilmModu",
-        "description": "Film modun geldiyse y\u00fcksek kalitede en yeni filmleri izle, 1080p izleyebilece\u011finiz reklamsiz film sitesi.",
+        "description": "Film modun geldiyse yüksek kalitede en yeni filmleri izle, 1080p izleyebileceğiniz reklamsiz film sitesi.",
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/FilmModu.cs3",
         "name": "FilmModu"
     },
-        {
+    {
         "iconUrl": "https://png.pngtree.com/png-clipart/20220823/ourmid/pngtree-turkey-country-flag-pin-icon-png-image_6120061.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/UmayTrade/UmayTv2",
@@ -684,7 +685,7 @@
         ],
         "version": 10,
         "internalName": "YerelProgramlar",
-        "description": "Yerel programlar\u0131 g\u00fcncel \u015fekilde bulabilirsiniz",
+        "description": "Yerel programları güncel şekilde bulabilirsiniz",
         "url": "https://raw.githubusercontent.com/UmayTrade/UmayTv2/refs/heads/main/YerelProgramlar.cs3",
         "name": "YerelProgramlar"
     },
@@ -704,7 +705,7 @@
         ],
         "version": 16,
         "internalName": "SineWix",
-        "description": "Sinewix | \u00dccretsiz Film - Dizi - Anime \u0130zleme Uygulamas\u0131.",
+        "description": "Sinewix | Ücretsiz Film - Dizi - Anime İzleme Uygulaması.",
         "url": "https://raw.githubusercontent.com/UmayTrade/TurkuazBeta/refs/heads/main/SineWix.cs3",
         "name": "SineWix"
     },
@@ -743,7 +744,7 @@
         ],
         "version": 8,
         "internalName": "Filmizlesene",
-        "description": "Sinema zevkini evinize kadar getirdik. T\u00fcrkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
+        "description": "Sinema zevkini evinize kadar getirdik. Türkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/FullHDFilmizlesene.cs3",
         "name": "FullHDFilmizlesene"
     },
@@ -763,7 +764,7 @@
         ],
         "version": 2,
         "internalName": "YerelDiziler",
-        "description": "Bu eklentide yerel dizileri g\u00fcncel \u015fekilde bulabilirsiniz",
+        "description": "Bu eklentide yerel dizileri güncel şekilde bulabilirsiniz",
         "url": "https://raw.githubusercontent.com/UmayTrade/UmayTv2/refs/heads/main/YerelDiziler.cs3",
         "name": "YerelDiziler"
     },
@@ -782,7 +783,7 @@
         ],
         "version": 5,
         "internalName": "HDFilm",
-        "description": "Hdfilm.cx ile HD Film izle, T\u00fcrkiye'nin binlerce filmlik orijinal ar\u015fiviyle Full HD 1080p kalite T\u00fcrk\u00e7e Dublaj ve Altyaz\u0131l\u0131 Film izleme keyfini ya\u015fay\u0131n.",
+        "description": "Hdfilm.cx ile HD Film izle, Türkiye'nin binlerce filmlik orijinal arşiviyle Full HD 1080p kalite Türkçe Dublaj ve Altyazılı Film izleme keyfini yaşayın.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/HDFilm.cs3",
         "name": "HDFilm"
     },
@@ -804,7 +805,7 @@
         ],
         "version": 26,
         "internalName": "HDFilmCehennemi",
-        "description": "T\u00fcrkiye'nin en h\u0131zl\u0131 hd film izleme sitesi",
+        "description": "Türkiye'nin en hızlı hd film izleme sitesi",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/HDFilmCehennemi.cs3",
         "name": "HDFilmCehennemi"
     },
@@ -823,7 +824,7 @@
         ],
         "version": 9,
         "internalName": "HdFilmCehennemi2",
-        "description": "Full hd film izleme keyfini hdfilmcehennemi2 ile ya\u015fay\u0131n. T\u00fcrkiye'nin en g\u00fcncel y\u00fcksek hd kalitede film izleme sitesi.",
+        "description": "Full hd film izleme keyfini hdfilmcehennemi2 ile yaşayın. Türkiye'nin en güncel yüksek hd kalitede film izleme sitesi.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/HdFilmCehennemi2.cs3",
         "name": "HdFilmCehennemi2"
     },
@@ -843,7 +844,7 @@
         ],
         "version": 3,
         "internalName": "HDFilmIzle",
-        "description": "HDFilmizle ile Full HD izle, 1080p kalitede Yerli ve Yabanc\u0131 filmlerle T\u00fcrk\u00e7e dublaj veya Altyaz\u0131 olarak kesintisiz film izlemenin tad\u0131n\u0131 \u00e7\u0131kar\u0131n.",
+        "description": "HDFilmizle ile Full HD izle, 1080p kalitede Yerli ve Yabancı filmlerle Türkçe dublaj veya Altyazı olarak kesintisiz film izlemenin tadını çıkarın.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/HDFilmIzle.cs3",
         "name": "HDFilmIzle"
     },
@@ -862,20 +863,20 @@
         ],
         "version": 9,
         "internalName": "HDFilmSitesi",
-        "description": "Film izle, Hdfilmsitesi ile Online 1080p ve 4K kalite Full HD Filmlere T\u00fcrk\u00e7e Dublaj ve Altyaz\u0131l\u0131 olarak Reklams\u0131z Kesintisiz HD Film izle.",
+        "description": "Film izle, Hdfilmsitesi ile Online 1080p ve 4K kalite Full HD Filmlere Türkçe Dublaj ve Altyazılı olarak Reklamsız Kesintisiz HD Film izle.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/HDFilmSitesi.cs3",
         "name": "HDFilmSitesi"
     },
     {
-        "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
+        "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5RqoZ5Rqo_yGrIY/s320/iNat-Box-App.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/UmayTrade/UmayTv2",
         "fileSize": 29094,
         "status": 3,
         "language": "tr",
         "authors": [
-      "c",
-      "keyiflerolsun"
+            "c",
+            "keyiflerolsun"
         ],
         "tvTypes": [
             "Movie",
@@ -884,7 +885,7 @@
         ],
         "version": 17,
         "internalName": "InatBox",
-        "description": "\u0130natBox cloudstream eklentisidir. Sevdi\u011finiz yay\u0131n platformlar\u0131n\u0131 ve canl\u0131 ma\u00e7lar\u0131 burada bulabilirsiniz.",
+        "description": "İnatBox cloudstream eklentisidir. Sevdiğiniz yayın platformlarını ve canlı maçları burada bulabilirsiniz.",
         "url": "https://raw.githubusercontent.com/UmayTrade/UmayTv2/refs/heads/main/InatBox.cs3",
         "name": "InatBox"
     },
@@ -896,7 +897,7 @@
         "status": 1,
         "language": "tr",
         "authors": [
-      "Makoto Tokioki"
+            "Makoto Tokioki"
         ],
         "tvTypes": [
             "Live"
@@ -908,14 +909,15 @@
         "name": "Puhu"
     },
     {
-        "iconUrl": "ttps://iosmirror.cc/img/nf2/icon_x192.png",
+        "iconUrl": "https://iosmirror.cc/img/nf2/icon_x192.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
         "fileSize": 18669,
         "status": 1,
         "language": "hi",
         "authors": [
-            "Horis, megix",
+            "Horis",
+            "megix",
             "keyiflerolsun",
             "nikyokki"
         ],
@@ -929,7 +931,7 @@
         "name": "NetflixMirror"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=https://jetfilmizle.de&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=jetfilmizle.de&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
         "fileSize": 14619,
@@ -944,7 +946,7 @@
         ],
         "version": 22,
         "internalName": "JetFilmizle",
-        "description": "Binlerce Film \u0130zleme Se\u00e7ene\u011fiyle En \u0130yi Film \u0130zleme Sitesi",
+        "description": "Binlerce Film İzleme Seçeneğiyle En İyi Film İzleme Sitesi",
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/JetFilmizle.cs3",
         "name": "JetFilmizle"
     },
@@ -964,7 +966,7 @@
         ],
         "version": 7,
         "internalName": "KoreanTurk",
-        "description": "G\u00fcney Kore sevdal\u0131lar\u0131n\u0131n vazge\u00e7emedi\u011fi ve T\u00fcrkiye'nin en \u00e7ok ziyaret edilen G\u00fcney Kore Portal\u0131; Koreant\u00fcrk'e ho\u015fgeldiniz!",
+        "description": "Güney Kore sevdalılarının vazgeçemediği ve Türkiye'nin en çok ziyaret edilen Güney Kore Portalı; Koreantürk'e hoşgeldiniz!",
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/KoreanTurk.cs3",
         "name": "KoreanTurk"
     },
@@ -985,7 +987,7 @@
         ],
         "version": 9,
         "internalName": "KultFilmler",
-        "description": "K\u00fclt Filmler \u00f6zenle en iyi filmleri derler ve iyi bir altyaz\u0131l\u0131 film izleme deneyimi sunmay\u0131 ama\u00e7lar",
+        "description": "Kült Filmler özenle en iyi filmleri derler ve iyi bir altyazılı film izleme deneyimi sunmayı amaçlar",
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/KultFilmler.cs3",
         "name": "KultFilmler"
     },
@@ -1051,7 +1053,7 @@
         ],
         "version": 73,
         "internalName": "RecTV",
-        "description": "RecTv APK, T\u00fcrkiye\u2019deki en pop\u00fcler \u00c7evrimi\u00e7i Medya Ak\u0131\u015f platformlar\u0131ndan biridir. Filmlerin, Canl\u0131 Sporlar\u0131n, Web Dizilerinin ve \u00e7ok daha fazlas\u0131n\u0131n keyfini \u00fccretsiz \u00e7\u0131kar\u0131n.",
+        "description": "RecTv APK, Türkiye\u2019deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
         "url": "https://raw.githubusercontent.com/UmayTrade/UmayTv2/refs/heads/main/RecTV.cs3",
         "name": "RecTV"
     },
@@ -1070,7 +1072,7 @@
         ],
         "version": 7,
         "internalName": "RoketDizi",
-        "description": "T\u00fcrkiye'nin en tatl\u0131\u015f yabanc\u0131 dizi izleme sitesi. T\u00fcrk\u00e7e dublaj, altyaz\u0131l\u0131, eski ve yeni yabanc\u0131 dizilerin yan\u0131 s\u0131ra kore (asya) dizileri izleyebilirsiniz.",
+        "description": "Türkiye'nin en tatlış yabancı dizi izleme sitesi. Türkçe dublaj, altyazılı, eski ve yeni yabancı dizilerin yanı sıra kore (asya) dizileri izleyebilirsiniz.",
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/RoketDizi.cs3",
         "name": "RoketDizi"
     },
@@ -1090,7 +1092,7 @@
         ],
         "version": 11,
         "internalName": "SetFilmIzle",
-        "description": "Setfilmizle sitemizde, donma ya\u015famadan T\u00fcrk\u00e7e dublaj ve altyaz\u0131l\u0131 filmleri ile dizileri muhte\u015fem 1080p full HD kalitesinde izleyebilirsiniz.",
+        "description": "Setfilmizle sitemizde, donma yaşamadan Türkçe dublaj ve altyazılı filmleri ile dizileri muhteşem 1080p full HD kalitesinde izleyebilirsiniz.",
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/SetFilmIzle.cs3",
         "name": "SetFilmIzle"
     },
@@ -1111,7 +1113,7 @@
         ],
         "version": 4,
         "internalName": "SezonlukDizi",
-        "description": "G\u00fcncel ve eski dizileri en iyi g\u00f6r\u00fcnt\u00fc kalitesiyle bulabilece\u011finiz yabanc\u0131 dizi izleme siteniz.",
+        "description": "Güncel ve eski dizileri en iyi görüntü kalitesiyle bulabileceğiniz yabancı dizi izleme siteniz.",
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/SezonlukDizi.cs3",
         "name": "SezonlukDizi"
     },
@@ -1126,11 +1128,12 @@
             "kraptor"
         ],
         "tvTypes": [
-            "Movie, TvSeries"
+            "Movie",
+            "TvSeries"
         ],
         "version": 4,
         "internalName": "Sinefy",
-        "description": "Yabanc\u0131 film izle olarak vizyondaki en yeni yabanc\u0131 filmleri t\u00fcrk\u00e7e dublaj ve altyaz\u0131l\u0131 olarak en h\u0131zl\u0131 \u015fekilde full hd olarak sizlere sunuyoruz.",
+        "description": "Yabancı film izle olarak vizyondaki en yeni yabancı filmleri türkçe dublaj ve altyazılı olarak en hızlı şekilde full hd olarak sizlere sunuyoruz.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/Sinefy.cs3",
         "name": "Sinefy"
     },
@@ -1149,7 +1152,7 @@
         ],
         "version": 7,
         "internalName": "SinemaCX",
-        "description": "G\u00fcncel ve en iyi yabanc\u0131 filmleri y\u00fcksek g\u00f6r\u00fcnt\u00fc kalitesinde, T\u00fcrk\u00e7e dublaj ve altyaz\u0131 se\u00e7enekleriyle filmleri full izleyin.",
+        "description": "Güncel ve en iyi yabancı filmleri yüksek görüntü kalitesinde, Türkçe dublaj ve altyazı seçenekleriyle filmleri full izleyin.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/SinemaCX.cs3",
         "name": "SinemaCX"
     },
@@ -1168,7 +1171,7 @@
         ],
         "version": 6,
         "internalName": "SuperFilmGeldi",
-        "description": "Hd film izliyerek arkada\u015flar\u0131n\u0131zla ve sevdiklerinizle iyi bir vakit ge\u00e7irmek istiyorsan\u0131z a\u00e7\u0131n bir film e\u011flenmeye bak\u0131n. Bilim kurgu filmleri, a\u015fk drama vah\u015fet a\u015fk romantik s\u0131rad\u0131\u015f\u0131 korku filmlerini izle.",
+        "description": "Hd film izliyerek arkadaşlarınızla ve sevdiklerinizle iyi bir vakit geçirmek istiyorsanız açın bir film eğlenmeye bakın. Bilim kurgu filmleri, aşk drama vahşet aşk romantik sıradışı korku filmlerini izle.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/SuperFilmGeldi.cs3",
         "name": "SuperFilmGeldi"
     },
@@ -1187,7 +1190,7 @@
         ],
         "version": 4,
         "internalName": "Tafdi",
-        "description": "T\u00fcrk\u00e7e altyaz\u0131l\u0131 film izle, full hd olarak film izlemenin keyfini \u00e7\u0131kar\u0131n. T\u00fcrkiyenin en b\u00fcy\u00fck film izleme platformu tafdi kalitesiyle sizlerle.",
+        "description": "Türkçe altyazılı film izle, full hd olarak film izlemenin keyfini çıkarın. Türkiyenin en büyük film izleme platformu tafdi kalitesiyle sizlerle.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/Tafdi.cs3",
         "name": "Tafdi"
     },
@@ -1206,7 +1209,7 @@
         ],
         "version": 2,
         "internalName": "TrDiziIzle",
-        "description": "Full hd ve tek par\u00e7a hemde reklams\u0131z yerli dizi izlemek mi istiyorsunuz? O halde bu site sorunsuz dizi izlemeniz i\u00e7in tam size g\u00f6re",
+        "description": "Full hd ve tek parça hemde reklamsız yerli dizi izlemek mi istiyorsunuz? O halde bu site sorunsuz dizi izlemeniz için tam size göre",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/TrDiziIzle.cs3",
         "name": "TrDiziIzle"
     },
@@ -1218,14 +1221,16 @@
         "status": 1,
         "language": "tr",
         "authors": [
-            "keyiflerolsun, kraptor123"
+            "keyiflerolsun",
+            "kraptor123"
         ],
         "tvTypes": [
-            "Anime, AnimeMovie"
+            "Anime",
+            "AnimeMovie"
         ],
         "version": 6,
         "internalName": "TurkAnime",
-        "description": "T\u00fcrk Anime TV - T\u00fcrkiye'nin Online Anime izleme sitesi.",
+        "description": "Türk Anime TV - Türkiye'nin Online Anime izleme sitesi.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/TurkAnime.cs3",
         "name": "TurkAnime"
     },
@@ -1244,7 +1249,7 @@
         ],
         "version": 5,
         "internalName": "UgurFilm",
-        "description": "Yabanc\u0131 film izle, T\u00fcrk\u00e7e dublaj ve T\u00fcrk\u00e7e altyaz\u0131l\u0131 film se\u00e7enekleriyle 720p ve 1080p HD kalitesinde film izle - U\u011fur Film full hd film izle.",
+        "description": "Yabancı film izle, Türkçe dublaj ve Türkçe altyazılı film seçenekleriyle 720p ve 1080p HD kalitesinde film izle - Uğur Film full hd film izle.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/UgurFilm.cs3",
         "name": "UgurFilm"
     },
@@ -1267,7 +1272,7 @@
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/powerDizi.cs3",
         "name": "powerDizi"
     },
-  {
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=asyawatch.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
@@ -1287,7 +1292,7 @@
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/AsyaWatch.cs3",
         "name": "AsyaWatch"
     },
-  {
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/UmayTrade/UmayTv2",
@@ -1301,7 +1306,7 @@
         ],
         "version": 2,
         "internalName": "CanliTelevizyon",
-        "description": "Canl\u0131 Televiyon Kanallari",
+        "description": "Canlı Televiziyon Kanallari",
         "url": "https://raw.githubusercontent.com/UmayTrade/UmayTv2/refs/heads/main/CanliTelevizyon.cs3",
         "name": "CanliTelevizyon"
     },
@@ -1311,7 +1316,7 @@
         "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
         "fileSize": 21873,
         "status": 1,
-        "language": "tr", "el"
+        "language": "tr",
         "authors": [
             "keyiflerolsun",
             "nikyokki"
@@ -1321,7 +1326,7 @@
         ],
         "version": 23,
         "internalName": "WebteIzle",
-        "description": "Her t\u00fcrl\u00fc filmi ister dublaj ister altyaz\u0131l\u0131, en kaliteli bir \u015fekilde izleyebilece\u011finiz ar\u015fivi en geni\u015f ger\u00e7ek film izleme siteniz.",
+        "description": "Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/WebteIzle.cs3",
         "name": "WebteIzle"
     },
@@ -1333,16 +1338,16 @@
         "status": 1,
         "language": "tr",
         "authors": [
-            "nikyokki",
+            "nikyokki"
         ],
         "tvTypes": [
             "Movie"
         ],
         "version": 6,
-        "internalName": "WFilm\u0130zle",
-        "description": "Aile Filmleri izle, Yerli ve yabanc\u0131 en yeni Aile filmlerini Full HD 1080p g\u00f6r\u00fcnt\u00fc kalitesiyle T\u00fcrk\u00e7e Dublaj ve T\u00fcrk\u00e7e Altyaz\u0131 se\u00e7enekleriyle izleyin.",
-        "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/WFilm\u0130zle.cs3",
-        "name": "WFilm\u0130zle"
+        "internalName": "WFilmİzle",
+        "description": "Aile Filmleri izle, Yerli ve yabancı en yeni Aile filmlerini Full HD 1080p görüntü kalitesiyle Türkçe Dublaj ve Türkçe Altyazı seçenekleriyle izleyin.",
+        "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/WFilm%C4%B0zle.cs3",
+        "name": "WFilmİzle"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=yabancidizi.tv&sz=%size%",
@@ -1359,7 +1364,7 @@
         ],
         "version": 3,
         "internalName": "YabanciDizi",
-        "description": "Son \u00e7\u0131kan yabanc\u0131 dizi ve filmleri yabancidizi' de izle. En yeni yabanc\u0131 film ve diziler, t\u00fcrk\u00e7e altyaz\u0131l\u0131 yada dublaj olarak 1080p kalitesinde hd izle.",
+        "description": "Son çıkan yabancı dizi ve filmleri yabancidizi' de izle. En yeni yabancı film ve diziler, türkçe altyazılı yada dublaj olarak 1080p kalitesinde hd izle.",
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/YabanciDizi.cs3",
         "name": "YabanciDizi"
     },
@@ -1378,9 +1383,8 @@
         ],
         "version": 3,
         "internalName": "NeonSpor",
-        "description": "(BeIN Sport, Tivibu Spor ve Smart Spor i\u00e7in VPN Gerekebilir.) NeonSpor eklentisini de BeIN Sport, Tabii Spor, Tivibu Spor, Smart Spor, S Sport ve Di\u011fer kanallar mevcuttur.",
+        "description": "(BeIN Sport, Tivibu Spor ve Smart Spor için VPN Gerekebilir.) NeonSpor eklentisini de BeIN Sport, Tabii Spor, Tivibu Spor, Smart Spor, S Sport ve Diğer kanallar mevcuttur.",
         "url": "https://raw.githubusercontent.com/sarapcanagii/Pitipitii/builds/NeonSpor.cs3",
         "name": "NeonSpor"
-    },
-
+    }
 ]
