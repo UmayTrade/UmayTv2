@@ -573,7 +573,7 @@
         "name": "FilmHane"
     },
     {
-        "iconUrl": "https://filmizle.cx/favicon.ico",
+        "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/1d/3c/331d3c0b-2400-9880-04db-f0639cac27aa/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/1200x630wa.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 21903,
@@ -586,10 +586,10 @@
             "Movie"
         ],
         "version": 3,
-        "internalName": "FilmIzleCx",
+        "internalName": "FilmBip",
         "description": "Filmizle ile Full HD Film izle. Yerli ve yabancı filmleri Türkçe dublaj veya Alt yazılı seçeneğiyle kesintisiz ve sorunsuz en hızlı film sitesi.",
-        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/FilmIzleCx.cs3",
-        "name": "FilmIzleCx"
+        "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/FilmBip.cs3",
+        "name": "FilmBip"
     },
     {
         "iconUrl": "https://www.dmax.com.tr/favicon.ico",
@@ -831,7 +831,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmizle.to&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
+        "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
         "fileSize": 27534,
         "status": 1,
         "language": "tr",
@@ -845,13 +845,13 @@
         "version": 3,
         "internalName": "HDFilmIzle",
         "description": "HDFilmizle ile Full HD izle, 1080p kalitede Yerli ve Yabancı filmlerle Türkçe dublaj veya Altyazı olarak kesintisiz film izlemenin tadını çıkarın.",
-        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/HDFilmIzle.cs3",
+        "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/HDFilmIzle.cs3",
         "name": "HDFilmIzle"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmsitesi.net&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
+        "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
         "fileSize": 22823,
         "status": 1,
         "language": "tr",
@@ -864,7 +864,7 @@
         "version": 9,
         "internalName": "HDFilmSitesi",
         "description": "Film izle, Hdfilmsitesi ile Online 1080p ve 4K kalite Full HD Filmlere Türkçe Dublaj ve Altyazılı olarak Reklamsız Kesintisiz HD Film izle.",
-        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/HDFilmSitesi.cs3",
+        "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/HDFilmSitesi.cs3",
         "name": "HDFilmSitesi"
     },
     {
@@ -1191,7 +1191,7 @@
         "version": 4,
         "internalName": "Tafdi",
         "description": "Türkçe altyazılı film izle, full hd olarak film izlemenin keyfini çıkarın. Türkiyenin en büyük film izleme platformu tafdi kalitesiyle sizlerle.",
-        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/Tafdi.cs3",
+        "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/Tafdi.cs3",
         "name": "Tafdi"
     },
     {
