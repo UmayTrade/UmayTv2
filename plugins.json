@@ -1425,5 +1425,24 @@
         "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages",
         "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/TvDiziler.cs3",
         "name": "TvDiziler"
+    },        
+    {
+        "iconUrl": ""https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
+        "fileSize": 38923,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "nikyokki"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 3,
+        "internalName": "powerSinema",
+        "description": "powerSinema",
+        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/powerboard Sinema - Latte.cs3",
+        "name": "powerSinema"
     }
 ]
