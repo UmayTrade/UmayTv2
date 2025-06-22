@@ -1407,23 +1407,4 @@
         "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/CNC Verse.cs3",
         "name": "CNC Verse"
     },
-            {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=tvdiziler.cc&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-        "fileSize": 38923,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "nikyokki"
-        ],
-        "tvTypes": [
-            "TvSeries"
-        ],
-        "version": 3,
-        "internalName": "TvDiziler",
-        "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages",
-        "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/TvDiziler.cs3",
-        "name": "TvDiziler"
-    },        
 ]
