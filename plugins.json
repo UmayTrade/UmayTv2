@@ -909,26 +909,23 @@
         "name": "Puhu"
     },
     {
-        "iconUrl": "https://iosmirror.cc/img/nf2/icon_x192.png",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=trgoalsgiris.xyz/&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
+        "repositoryUrl": "https://github.com/patr0nq/patr0n-cloudstream",
         "fileSize": 18669,
         "status": 1,
-        "language": "hi",
+        "language": "tr",
         "authors": [
-            "Horis",
-            "megix",
-            "keyiflerolsun",
-            "nikyokki"
+      "Sakultah"
         ],
         "tvTypes": [
             "Live"
         ],
         "version": 4,
-        "internalName": "NetflixMirror",
-        "description": "Netflix, PrimeVideo Content in Multiple Languages",
-        "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/NetflixMirror.cs3",
-        "name": "NetflixMirror"
+        "internalName": "TRGoals",
+        "description": "TRGoals",
+        "url": "https://raw.githubusercontent.com/patr0nq/patr0n-cloudstream/builds/TRGoals.cs3",
+        "name": "TRGoals"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=jetfilmizle.de&sz=%size%",
