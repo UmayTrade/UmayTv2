@@ -418,7 +418,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
         "fileSize": 29097,
-        "status": 1,
+        "status": 0,
         "language": "tr",
         "authors": [
             "nikyokki"
@@ -773,7 +773,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 25776,
-        "status": 1,
+        "status": 0,
         "language": "tr",
         "authors": [
             "kraptor"
@@ -913,7 +913,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/patr0nq/patr0n-cloudstream",
         "fileSize": 18669,
-        "status": 1,
+        "status": 0,
         "language": "tr",
         "authors": [
       "Sakultah"
@@ -1236,7 +1236,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 21241,
-        "status": 1,
+        "status": 0,
         "language": "tr",
         "authors": [
             "keyiflerolsun"
