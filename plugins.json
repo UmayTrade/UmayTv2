@@ -37,6 +37,25 @@
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/4KFilmIzleme.cs3",
         "name": "4KFilmIzleme"
     },
+        {
+        "iconUrl": "https://e7.pngegg.com/pngimages/361/407/png-clipart-kanal-7-high-definition-television-television-channel-streaming-television-others-television-angle-thumbnail.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Sertel392/Makotogecici",
+        "fileSize": 11676,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "Makoto Tokioki"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 8,
+        "internalName": "Kanal7",
+        "description": "Kanal7 hint dizileri.",
+        "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/refs/heads/main/Kanal%207.cs3",
+        "name": "Kanal7"
+    },
     {
         "iconUrl": "https://play-lh.googleusercontent.com/-yOogqUeOaEmqLT0fJn4Esbj0pldGw7wijqdX2XxSAQn2djvefdwkHeK3tZSv-gMP2Q",
         "apiVersion": 1,
