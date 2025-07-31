@@ -15,7 +15,7 @@
         "version": 8,
         "internalName": "4KFilmIzlesene",
         "description": "En yeni ve sorunsuz \u26a1 Full HD Film izle keyfi her yerde sizinle ! 4K ve 1080p online film izleme fark\u0131yla 4KFilmizlesene&#039;nin Tad\u0131n\u0131 \u00c7\u0131kart..",
-        "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/4KFilmIzlesene.cs3",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/4KFilmIzlesene.cs3",
         "name": "4KFilmIzlesene"
     },
     {
@@ -180,7 +180,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 22502,
-        "status": 1,
+        "status": 0,
         "language": "tr",
         "authors": [
             "kraptor"
@@ -1294,7 +1294,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=asyawatch.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-        "status": 1,
+        "status": 0,
         "language": "tr",
         "authors": [
             "nikyokki"
