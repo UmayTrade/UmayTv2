@@ -549,7 +549,7 @@
         "version": 11,
         "internalName": "DiziYou",
         "description": "Diziyou en kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesidir. Güncel ve efsanevi dizileri 1080p Full HD kalitede izlemek için hemen tıkla!",
-        "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/DiziYou.cs3",
+        "url": "hhttps://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/DiziYou.cs3",
         "name": "DiziYou"
     },
     {
@@ -792,7 +792,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 25776,
-        "status": 1,
+        "status": 0,
         "language": "tr",
         "authors": [
             "kraptor"
@@ -1274,7 +1274,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
         "fileSize": 18684,
-        "status": 1,
+        "status": 0,
         "language": "tr",
         "authors": [
             "GitLatte",
