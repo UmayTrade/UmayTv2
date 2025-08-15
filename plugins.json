@@ -788,7 +788,7 @@
         "name": "YerelDiziler"
     },
     {
-        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWfxnJ90pMzbs6SAtxamZRPOHuZHZdx-dDKA&s",
+        "iconUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbK_Pe3vpG-yUVt1NvckDpaD6COLDitImrBUnHfAVA4fawhijE",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "fileSize": 25776,
@@ -801,10 +801,10 @@
             "Movie"
         ],
         "version": 5,
-        "internalName": "HDFilm",
-        "description": "Hdfilm.cx ile HD Film izle, Türkiye'nin binlerce filmlik orijinal arşiviyle Full HD 1080p kalite Türkçe Dublaj ve Altyazılı Film izleme keyfini yaşayın.",
-        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/HDFilm.cs3",
-        "name": "HDFilm"
+        "internalName": "Filmhane",
+        "description": "filmhane.cx ile HD Film izle, Türkiye'nin binlerce filmlik orijinal arşiviyle Full HD 1080p kalite Türkçe Dublaj ve Altyazılı Film izleme keyfini yaşayın.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FilmHane.cs3",
+        "name": "FilmHane"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
