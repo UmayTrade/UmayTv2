@@ -217,11 +217,11 @@
     "name": "AsyaFilmIzlesene"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.asyaking.com&sz=%size%",
+    "iconUrl": "https://www.dmax.com.tr/favicon.ico",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "fileSize": 15629,
-    "status": 0,
+    "status": 1,
     "language": "tr",
     "authors": [
       "kerimmkirac"
@@ -230,10 +230,10 @@
       "AsianDrama"
     ],
     "version": 5,
-    "internalName": "AsyaKing",
-    "description": "Asya Dizi İzle, kore dizi izle, çin dizi izle, bl dizileri izle denilince akla gelen ilk site ; 1080p fullhd türkçe altyazılı olarak izleyin.",
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/AsyaKing.cs3",
-    "name": "AsyaKing"
+    "internalName": "DMax",
+    "description": "DMAX dizi ve programlar\u0131n\u0131 takip etmek i\u00e7in ziyaret edin. DMAX dizi ve programlar\u0131n\u0131 tek par\u00e7a ve hd kalitesiyle izleyin.",
+    "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/DMax.cs3",
+    "name": "DMax"
   },
   {
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://asyaminik.com/&size=128",
