@@ -572,26 +572,6 @@
         "name": "FilmEkseni"
     },
     {
-        "iconUrl": "https://i.pinimg.com/474x/60/10/3d/60103df12cfbf1b6ee4bd591c1da012a.jpg",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "fileSize": 16590,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "kraptor"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 5,
-        "internalName": "3ll3sm3",
-        "description": "Son çıkan en yeni filmleri türkçe dublaj ve türkçe altyazılı dil seçenekleriyle Full HD (1080p) kalitelerinde film izle.",
-        "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Streamed.cs3",
-        "name": "3ll3sm3"
-    },
-    {
         "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/1d/3c/331d3c0b-2400-9880-04db-f0639cac27aa/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/1200x630wa.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
