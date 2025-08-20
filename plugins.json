@@ -572,7 +572,7 @@
         "name": "FilmEkseni"
     },
     {
-        "iconUrl": "https://i.pinimg.com/280x280_RS/a2/68/e2/a268e2d98e0ec1f006ae7cd37d1c8e5d.jpg",
+        "iconUrl": "https://i.pinimg.com/474x/60/10/3d/60103df12cfbf1b6ee4bd591c1da012a.jpg",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "fileSize": 16590,
@@ -586,10 +586,10 @@
             "TvSeries"
         ],
         "version": 5,
-        "internalName": "FilmHane",
+        "internalName": "3ll3sm3",
         "description": "Son çıkan en yeni filmleri türkçe dublaj ve türkçe altyazılı dil seçenekleriyle Full HD (1080p) kalitelerinde film izle.",
-        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FilmHane.cs3",
-        "name": "FilmHane"
+        "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Streamed.cs3",
+        "name": "3ll3sm3"
     },
     {
         "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/1d/3c/331d3c0b-2400-9880-04db-f0639cac27aa/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/1200x630wa.png",
@@ -1426,25 +1426,23 @@
         "name": "CNC Verse"
     },
         {
-        "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/powersinema.png",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=selcukflix.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/GitLatte/Sinetech",
         "fileSize": 38923,
         "status": 1,
         "language": "tr",
         "authors": [
-            "GitLatte",
-            "patr0nq",
-            "keyiflerolsun"
+            "kerimkirac",
         ],
         "tvTypes": [
             "Movie"
         ],
         "version": 3,
-        "internalName": "powerboard Sinema - Latte",
-        "description": "powerboard`un sinema ar\u015fivi",
-        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/powerboard Sinema - Latte.cs3",
-        "name": "powerboard Sinema - Latte"
+        "internalName": "SelcukFlix",
+        "description": "SelcukFlix",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SelcukFlix.cs3",
+        "name": "SelcukFlix"
     },
             {
         "iconUrl": "https://www.google.com/s2/favicons?domain=tvdiziler.cc&sz=%size%",
