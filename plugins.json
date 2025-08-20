@@ -353,7 +353,7 @@
     "name": "Ddizi"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=diziasia.com&sz=%size%",
+    "iconUrl": "https://www.dmax.com.tr/favicon.ico",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "fileSize": 16097,
@@ -367,10 +367,10 @@
       "AsianDrama"
     ],
     "version": 5,
-    "internalName": "DiziAsia",
-    "description": "DiziAsia - Asya Dizileri İzle",
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziAsia.cs3",
-    "name": "DiziAsia"
+    "internalName": "DMax",
+    "description": "DMax",
+    "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/DMax.cs3",
+    "name": "DMax"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.diziasya.com/&sz=%size%",
