@@ -1397,23 +1397,4 @@
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/YeniWatch.cs3",
     "name": "YeniWatch"
   },
-  {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=filmkovasi.tv&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-    "fileSize": 15285,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "Anime"
-    ],
-    "version": 7,
-    "internalName": "FilmKovasi",
-    "description": FilmKovasi.",
-    "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/FilmKovasi.cs3",
-    "name": "FilmKovasi"
-  },
 ]
