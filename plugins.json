@@ -1425,25 +1425,7 @@
         "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/CNC Verse.cs3",
         "name": "CNC Verse"
     },
-        {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=selcukflix.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
-        "fileSize": 38923,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "kerimkirac",
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 3,
-        "internalName": "SelcukFlix",
-        "description": "SelcukFlix",
-        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SelcukFlix.cs3",
-        "name": "SelcukFlix"
-    },
+
             {
         "iconUrl": "https://www.google.com/s2/favicons?domain=tvdiziler.cc&sz=%size%",
         "apiVersion": 1,
