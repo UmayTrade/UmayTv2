@@ -1037,6 +1037,25 @@
     "name": "RecTV"
   },
   {
+    "iconUrl": "https://rectvapk.cc/wp-content/uploads/2023/02/Rec-TV.webp",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+    "fileSize": 20787,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "sarapcanagii",
+      ],
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "version": 85,
+    "internalName": "Neonspor",
+    "description": "Neonspor.",
+    "url": "https://raw.githubusercontent.com/sarapcanagii/Pitipitii/builds/NeonSpor.cs3",
+    "name": "Neonspor"
+  },
+  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=roketdizi.co&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
