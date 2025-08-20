@@ -1398,25 +1398,22 @@
     "name": "YeniWatch"
   },
   {
-    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://en.yts-official.mx&size=128",
-    "jarFileSize": 76378,
+    "iconUrl": "https://www.google.com/s2/favicons?domain=filmkovasi.tv&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-    "fileSize": 15876,
+    "fileSize": 15285,
     "status": 1,
-    "language": "en",
+    "language": "tr",
     "authors": [
-      "Phisher98"
+      "kerimmkirac"
     ],
     "tvTypes": [
-      "Movie",
-      "Torrent"
+      "Anime"
     ],
-    "version": 10,
-    "internalName": "YTS",
-    "jarUrl": "https://raw.githubusercontent.com/Kraptor123/kraptoranime/builds/YTS.jar",
-    "description": "YTS Movies 4K Support (Torrent)",
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/YTS.cs3",
-    "name": "YTS"
-  }
+    "version": 7,
+    "internalName": "FilmKovasi",
+    "description": FilmKovasi.",
+    "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/FilmKovasi.cs3",
+    "name": "FilmKovasi"
+  },
 ]
